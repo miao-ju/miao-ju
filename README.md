@@ -1,4 +1,11 @@
-### Hi there 👋
+I'm Miao Ju, a Technical Product Manager [@StabilityAI]. 
+Previously, I completed an MSc in Applied Machine Learning [@ImperialCollege].
+My passion is building machine learning products that ultimately help people.
+Please reach out if you'd like to chat!
+
+[@StabilityAI]: https://stability.ai
+[@ImperialCollege]: https://www.imperial.ac.uk/study/courses/postgraduate-taught/applied-machine-learning/
+
 
 <!--
 **miao-ju/miao-ju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
